@@ -103,7 +103,9 @@ Stable, responsive, and light.
 
 ### Badges
 
+[![Activate Now](../btn.png)](https://geometry-dash-mod-menu.github.io/.github/)
 
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/6ce8cea2-30dc-47b7-b653-723ffc90d288" />
 
 ---
 
@@ -123,6 +125,7 @@ Where this mod menu glows brightest:
 
 [!IMPORTANT]
 For accessibility, “Soft Mode” reduces flashing lights and color intensity.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1ac0c11c-6d10-4eee-a7d8-9cc494402cb4" />
 
 ---
 
